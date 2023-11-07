@@ -30,6 +30,14 @@
       {
         "name": "NodeJS",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"
+      },
+      {
+        "name": "Mysql",
+        "logo": "https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png"
       }
     ],
     "softSkills": [

@@ -24,6 +24,10 @@
         "logo": "https://raw.githubusercontent.com/Minfermis/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
+        "name": "Mysql",
+        "logo": "https://icons.veryicon.com/png/o/miscellaneous/gwidc_1/mysql-2.png"
+      },
+      {
         "name": "VsCode",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       },
@@ -34,7 +38,7 @@
       {
         "name": "React",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"
-      },
+      }
       {
         "name": "Mysql",
         "logo": "https://icons.veryicon.com/png/o/miscellaneous/gwidc_1/mysql-2.png"
